@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-title: "Dealing with zero-inflated data: achieving SOTA with a two-fold machine learning approach"
+title: "Dealing with Zero-Inflated Data: Achieving SOTA with a Two-Fold Machine Learning Approach"
 authors:
   - family-names: "Rožanec"
-    given-names: "Jože M"
+    given-names: "Jože M."
   - family-names: "Petelin"
     given-names: "Gašper"
   - family-names: "Costa"
@@ -18,7 +18,7 @@ authors:
   - family-names: "Mladenić"
     given-names: "Dunja"
 version: "1.0.0"
-date-released: "2023-01-01"
-url: "https://arxiv.org/abs/2310.08088"
-preferred-citation:
-  type: article
+date-released: "2023-10-01"
+identifier:
+  type: "arXiv"
+  value: "2310.08088"
