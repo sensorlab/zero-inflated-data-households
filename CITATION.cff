@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-type: "article"
+preferred-citation: "article"
 title: "Dealing with zero-inflated data: achieving SOTA with a two-fold machine learning approach"
 authors:
   - family-names: "Rožanec"
