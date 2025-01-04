@@ -19,6 +19,6 @@ authors:
     given-names: "Dunja"
 version: "1.0.0"
 date-released: "2023-10-01"
-identifier:
-  type: "arXiv"
-  value: "2310.08088"
+publisher: "arXiv"
+url: "https://arxiv.org/abs/2310.08088"
+message: "If you use this work, please cite it using the above information."
