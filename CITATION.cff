@@ -1,5 +1,4 @@
 cff-version: 1.2.0
-preferred-citation: "article"
 title: "Dealing with zero-inflated data: achieving SOTA with a two-fold machine learning approach"
 authors:
   - family-names: "Rožanec"
@@ -21,3 +20,5 @@ authors:
 version: "1.0.0"
 date-released: "2023-01-01"
 url: "https://arxiv.org/abs/2310.08088"
+preferred-citation:
+  type: article
