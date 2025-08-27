@@ -15,3 +15,8 @@ This research addresses the challenges posed by zero-inflated data through an in
   url = {https://www.sciencedirect.com/science/article/pii/S0952197625003392},
 }
 ```
+
+### External link
+
+- [Dealing with zero-inflated data: Achieving state-of-the-art with a two-fold machine learning approach](https://doi.org/10.1016/j.engappai.2025.110339) (Elsevier, final version)
+- [Dealing with zero-inflated data: achieving SOTA with a two-fold machine learning approach](https://arxiv.org/abs/2310.08088) (ArXiv, preprint)
